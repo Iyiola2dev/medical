@@ -1,0 +1,39 @@
+.contact{
+    border: none;
+    background-color:#fff;
+    color: #0F4ce8;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+.span2{
+    border: 2px solid #fff;
+    
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2px;
+}
+
+img{
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+  }
+
+  .text {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Number of lines to show */
+    -webkit-box-orient: vertical;
+}
+/* #buttonimage{
+    position:relative;
+} */
+
+/* .images{
+    position: absolute;
+    right: 0;
+} */
