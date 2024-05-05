@@ -1,3 +1,8 @@
+.div{
+    border-radius: 10px;
+    padding: 5px;
+}
+
 .contact{
     border: none;
     background-color:#fff;
@@ -37,3 +42,12 @@ img{
     position: absolute;
     right: 0;
 } */
+
+.Explore{
+    border: 2px solid #fff;
+    background-color: #0F4ce8;
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 2px;
+}
